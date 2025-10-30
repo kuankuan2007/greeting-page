@@ -1,0 +1,209 @@
+:winter
+记得多穿衣服
+别感冒了
+好好爱自己
+天凉了，记得添衣保暖
+秋意渐浓，注意保暖哦
+冬天来了，多喝热水
+寒风起了，记得围围巾
+降温了，照顾好自己
+换季时节，多注意身体
+秋冬交替，别忘了加件外套
+It's getting cold, stay warm
+Don't forget to wear your jacket
+Keep yourself cozy this winter
+Bundle up and stay healthy
+The weather is changing, take care
+初雪飘洒，愿你温暖如春
+霜降时节，记得早晚添衣
+立冬已至，保重身体
+小雪纷飞，愿你心情如雪花般纯净
+大雪节气，温暖相伴每一天
+Winter is here, keep warm and safe
+Cold days ahead, stay bundled up
+Autumn leaves fall, but my care for you remains
+Chilly mornings call for warm hugs
+秋风萧瑟，我的关怀如暖阳
+寒露降临，记得早睡早起
+白露时节，注意润燥养肺
+处暑已过，秋意正浓
+秋分日，愿你心情如秋日般晴朗
+寒衣调就，愿你冬日安好
+Frosty mornings remind me to check on you
+When the leaves change, my thoughts turn to you
+Cold weather calls for warm hearts
+Stay cozy and comfortable this season
+北风呼啸，愿你内心温暖如火
+雪花飞舞，愿你快乐如童
+数九寒天，愿你幸福满怀
+三九严寒，愿你健康平安
+腊月寒冬，愿你温馨常伴
+Winter winds blow, but friendship keeps us warm
+Snow may fall, but our bond remains strong
+Cold nights are perfect for warm thoughts of you
+梅花香自苦寒来，愿你坚强如梅
+瑞雪兆丰年，愿你来年更美好
+冰天雪地，愿你心中有温暖
+数九歌声里，愿你快乐每一天
+May winter bring you peace and warmth
+In the coldest days, may you find the warmest joy
+寒冬腊月，愿你身体健康如松柏
+天寒地冻，愿你心情灿烂如阳光
+
+:general
+今天过得怎么样？
+记得按时吃饭
+别熬夜了，早点休息
+多喝水，保持健康
+累了就休息一下
+Hope you're having a great day
+Don't forget to eat your meals
+Take a break when you need it
+You're doing amazing, keep going
+Remember to smile today
+工作再忙也要注意身体
+压力大的时候记得深呼吸
+遇到困难不要害怕，你很棒
+每一天都是新的开始
+相信自己，你可以的
+Take time for yourself today
+You matter more than you know
+Every small step counts
+Be kind to yourself
+Your efforts are noticed and appreciated
+路虽远，行则将至
+事虽难，做则必成
+今天的努力是明天的礼物
+慢慢来，比较快
+你的存在本身就很珍贵
+Progress, not perfection
+You are stronger than you think
+Take things one day at a time
+Your feelings are valid
+It's okay to not be okay sometimes
+记得给自己一个拥抱
+今天也要元气满满哦
+你的笑容是世界上最美的风景
+无论多忙，都要好好吃饭
+心情不好的时候，记得我在想你
+You deserve all the good things in life
+Take a moment to appreciate yourself
+Your kindness makes a difference
+Remember to breathe and stay present
+You are enough, just as you are
+适当的休息是为了走更远的路
+今天的小确幸是什么呢？
+记得奖励辛苦的自己
+你的努力终将发光发热
+每个人都有自己的节奏，慢慢来
+Celebrate your small wins today
+You're braver than you believe
+Trust the process and trust yourself
+Your potential is limitless
+Take care of your mental health too
+
+:health
+记得定时运动，保持活力
+多吃蔬菜水果，营养均衡
+充足的睡眠很重要
+保持良好的坐姿
+眼睛累了就远眺一下
+Stay hydrated throughout the day
+Don't skip your regular checkups
+Listen to your body's needs
+Fresh air and sunlight are good for you
+Stretch regularly to avoid stiffness
+记得做眼保健操
+少吃油腻，多吃清淡
+饭后散散步，有益消化
+保持规律的作息时间
+心情不好时，运动是良药
+Take breaks from screen time
+Practice good hygiene habits
+Don't ignore persistent symptoms
+Maintain a balanced diet
+Get some vitamin D from sunlight
+定期体检，预防为主
+保持室内空气流通
+注意用眼卫生，保护视力
+合理安排工作和休息时间
+保持心情愉快，笑口常开
+Wash your hands frequently
+Get enough fiber in your diet
+Stay active, even with small movements
+Protect your hearing from loud noises
+Practice stress management techniques
+记得补充维生素
+少熬夜，多睡觉
+适量运动，量力而行
+保持良好的心态
+定期清理居住环境
+Limit processed foods and sugar
+Stay connected with friends and family
+Practice mindfulness and meditation
+Don't neglect your dental health
+Be mindful of your posture while working
+注意食品安全，小心病从口入
+保持适当的体重
+学会释放压力
+培养健康的兴趣爱好
+定期检查血压和血糖
+Keep a first aid kit handy
+Know the signs of common health issues
+Stay informed about health and wellness
+Create a healthy sleep environment
+Remember that prevention is better than cure
+
+:festival
+祝你生日快乐，天天开心
+新年快乐，万事如意
+Happy birthday! May all your dreams come true
+Merry Christmas and Happy New Year
+Wishing you joy and happiness this holiday season
+春节快乐，阖家幸福
+元宵节快乐，团团圆圆
+中秋节快乐，月圆人团圆
+国庆节快乐，祖国万岁
+情人节快乐，爱情甜蜜
+Happy Valentine's Day, love is in the air
+Thanksgiving wishes for you and your family
+Happy Easter! May it bring new hope
+Mother's Day blessings to all amazing moms
+Father's Day wishes to all wonderful dads
+教师节快乐，感谢您的辛勤付出
+劳动节快乐，致敬每一位劳动者
+儿童节快乐，愿你永远童心未泯
+妇女节快乐，愿所有女性都被温柔以待
+重阳节快乐，愿老人们身体健康
+Happy Halloween! Stay safe while having fun
+Wishing you a bright and prosperous Diwali
+Ramadan Mubarak! May this holy month bring peace
+Happy Hanukkah! Light and joy to you
+端午节快乐，愿你粽是幸福
+七夕节快乐，爱情如牛郎织女般美好
+感恩节快乐，感谢生命中的美好
+平安夜快乐，愿你平平安安
+愚人节快乐，但我对你的关心是真的
+Happy New Year! May this year bring you success
+
+:strength
+相信自己，你比想象中更强大
+每一次跌倒都是成长的机会
+坚持下去，胜利就在前方
+你的梦想值得为之奋斗
+困难是成功路上的垫脚石
+You are capable of amazing things
+Don't give up, you're closer than you think
+Every expert was once a beginner
+Your hard work will pay off
+Believe in the power of your dreams
+今天的努力，是明天的奇迹
+越努力，越幸运
+成功属于永不放弃的人
+你的坚持，终将美好
+路虽崎岖，但心向阳光
+Turn your wounds into wisdom
+Great things never come from comfort zones
+You are writing your own success story
+Champions are made when nobody's watching
+The best is yet to come, keep going!

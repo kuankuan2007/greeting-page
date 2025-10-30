@@ -11,18 +11,18 @@
 <script setup lang="ts">
 import { computedSizeRef } from './scripts/sizeRef';
 import storageRef from './scripts/storageRef';
-import { AllBuiltinGroups, computedTextContent } from './scripts/textContent';
+import { computedTextContent } from './scripts/textContent';
 import TextValue from './components/TextValue.vue';
 import type { TextBox } from './types/texts';
 
 const textList = useTemplateRef('text-list')
 const size = computedSizeRef(textList);
-const enabledContentGroup = storageRef(AllBuiltinGroups.join(','), 'enabledContentGroup');
+const enabledContentGroup = storageRef('winter,general,health', 'enabledContentGroup');
 const enabledContent = computedTextContent(computed(() => enabledContentGroup.value.split(',')));
 let nowID = 0;
 
 const values = shallowReactive<TextBox[]>([]);
-const MAX_TEXT_NUM = 50;
+const MAX_TEXT_NUM = 40;
 const MAX_GEN_SPEED = 10;
 
 const genHistory: { time: number, num: number }[] = []
